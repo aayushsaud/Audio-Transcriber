@@ -9,5 +9,4 @@ public class AudioTranscriberApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(AudioTranscriberApplication.class, args);
 	}
-
 }
